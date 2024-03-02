@@ -29,7 +29,63 @@ Conteúdo
     <li>
         <a href="#">Bem Vindo</a>
     </li>
+    <li>
+        <a href="#status">Status</a>
+    </li>
+    <li>
+        <a href="#features">Features</a>
+    </li>
+    <li>
+        <a href="#requisitos">Pré requisitos</a>
+    </li>
+    <li>
+        <a href="#mapaProjeto">Mapa do Projeto</a>
+    </li>
+     <li>
+        <a href="#tecnologias">Tecnologias</a>
+    </li>
+    
 </ul>
 
-#### :rocket: Status ####
+<p id="status"></p>
+#### :rocket: Status
+... em construção
 <h5>...em construção</h5>
+
+
+<p id="features"></p>
+#### Features
+[x] Padrão de documentação no README
+[ ] Dicas para adquirir badges
+
+#### Pré requisitos
+<p id="requisitos"></p>
+Abaixo segue os softwares necessários utilizados na criação deste projeto:
+
+<ul>
+    <li> 
+        <a href="https://code.visualstudio.com/">VS Code </a>    
+    </li>
+    <li>
+        <a href="https://git-scm.com/"> Git </a>
+    </li>
+</ul>
+
+<p id="mapaProjeto"></p>
+#### Mapa do Projeto
+
+```
+├───img                 //Pasta com imagens
+└───src 
+    ├───app             //Pasta com apps do Projeto
+    ├───interfaces      //Pasta com interfaces contratos
+    └───repository      //Pasta com camada de acesso no banco
+```
+
+<p id="tecnologias"></p>
+#### Tecnologias
+
+- [HTML]
+- [Markdown]
+
+
