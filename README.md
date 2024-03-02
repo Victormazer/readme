@@ -3,7 +3,7 @@
 <![tecnologia](./img/technology.avif)
 
 <!-- <p align="center" width="100%">
-    <img width="60%" src="./img/technology.avif">
+    <img width="60%" src="./img/technology.avifadq">
 </p> --> 
 
 # Titulo 
